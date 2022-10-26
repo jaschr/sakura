@@ -1,5 +1,5 @@
 <h1 align="center">
-Sakura
+🌸 Sakura 🌸
 <h1>
 
 ## Introduction
