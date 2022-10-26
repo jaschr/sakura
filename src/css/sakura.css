@@ -1,15 +1,25 @@
 :root {
   --sakura: #f7cfe1;
+  --momiji: #d02d23;
+  --camellia: #f87766;
+  --lotus: #e5c3c3;
+  --black-bean: #2e272a;
+  --wild-ginger: #7c4c53;
+  --fern: #9aa067;
+  --eden: #355743;
+  --muted-lime: #d1c87c;
+  --waterfall: #49b2a7;
+  --black-iris: #383e4e;
 
-  /* Testing these colors */
-  --white-raisin: #e4be8b;
-  --burning-sand: #cf825f;
-  --dusty-red: #ba4a4f;
-  --amazon-stone: #797674;
-  --moonscape: #715d65;
-  --zero-gravity: #2d1d29;
-  --muted-berry: #91788c;
-  --liebermann: #93b199;
-  --santorini: #446d84;
-  --toad-king: #3d6e51;
+  --fg: var(--black-bean);
+  --bg: var(--sakura);
+  --bg-alt: var(--lotus);
+  --red: var(--momiji);
+  --green: var(--eden);
+  --green-alt: var(--fern);
+  --yellow: var(--muted-lime);
+  --blue: var(--black-iris);
+  --magenta: var(--wild-ginger);
+  --cyan: var(--waterfall);
+  --orange: var(--camellia);
 }
