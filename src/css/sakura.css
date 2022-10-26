@@ -15,6 +15,7 @@
   --waterfall: #49b2a7; /* Needs more conrast */
   --black-iris: #383e4e;
 
+  /* Light Theme Test */
   --fg: var(--black-bean);
   --bg: var(--sakura);
   --bg-alt: var(--lotus);
