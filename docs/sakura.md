@@ -18,6 +18,8 @@
 
 #### Muted Lime (Pantone 14-0636 TPX): #d1c87c
 
+### Sandstone (Pantone P 12-11 C): #c6af75
+
 #### Waterfall (Pantone 15-5516 TPG): #49b2a7
 
 #### Black Iris (Pantone 19-3921 TPG): #383e4e
@@ -28,7 +30,7 @@
 - bg: #f7cfe1 -- [alt: #e5c3c3]
 - red: #d02d23
 - green: #355743 -- [alt: #9aa067]
-- yellow: #d1c87c
+- yellow: #c6af75 [alt: #d1c87c]
 - blue: #383e4e
 - magenta: #7c4c53
 - cyan: #49b2a7

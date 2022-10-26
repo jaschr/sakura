@@ -1,14 +1,18 @@
 :root {
+  /* Probably going to go for a more monochromatic color scheme after testing */
   --sakura: #f7cfe1;
   --momiji: #d02d23;
+
+  /* Testing colors */
   --camellia: #f87766;
   --lotus: #e5c3c3;
   --black-bean: #2e272a;
   --wild-ginger: #7c4c53;
   --fern: #9aa067;
   --eden: #355743;
-  --muted-lime: #d1c87c;
-  --waterfall: #49b2a7;
+  --muted-lime: #d1c87c; /* Needs more contrast */
+  --sandstone: #c6af75; /* Needs more contrast */
+  --waterfall: #49b2a7; /* Needs more conrast */
   --black-iris: #383e4e;
 
   --fg: var(--black-bean);
@@ -17,7 +21,8 @@
   --red: var(--momiji);
   --green: var(--eden);
   --green-alt: var(--fern);
-  --yellow: var(--muted-lime);
+  --yellow: var(--sandstone);
+  --yellow-alt: var(--muted-lime);
   --blue: var(--black-iris);
   --magenta: var(--wild-ginger);
   --cyan: var(--waterfall);
