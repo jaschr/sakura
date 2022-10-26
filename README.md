@@ -1,4 +1,4 @@
-<style>H1{color:#f7cfe1 !important;}
+<style>H1{color:#f7cfe1 !important;}</style>
 
 <h1 align="center">
 🌸 Sakura 🌸
