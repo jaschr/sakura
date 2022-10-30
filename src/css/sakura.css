@@ -1,10 +1,10 @@
 :root {
   --sakura: #f7cfe1;
+  --light: #fff0f7;
+  --dark: #382f33;
   --green: #6dab6f;
   --magenta: #ab7e92;
-  --light: #fff0f7;
   --cyan: #7eab99;
   --blue: #87a5ab;
-  --dark: #382f33;
   --red: #914d40;
 }
